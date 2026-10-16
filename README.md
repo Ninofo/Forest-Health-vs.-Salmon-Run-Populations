@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Salmon Run Populations in Predicting Forest Health
 
-> A brief description of what the project does and its purpose.
+> Examine Salmon run populations and determine if there is a correlation in Forest health. 
 
 ---
 
@@ -9,7 +9,7 @@
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
 - **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
+- **Domain:** Nature and Restoration 
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -48,7 +48,8 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Nina Fossen
+- Jacqueline Muse 
 
 ---
 
