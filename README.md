@@ -33,11 +33,12 @@ Provide a short and concise overview of the project. Mention the problem it solv
 - **License:**  "Pacific Salmon Commission (PSC) www.psc.org (month and year when data was retrieved)".
  If the document contains an acknowledgment section, then it must be noted that data was provided by the Pacific Salmon Commission, found at www.psc.org.
 
-## Forest Data
+## Forest/Watershed Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+Forestry influences on salmonid habitat in the North Thompson River Watershed, British Columbia
+- datadryad.org/dataset/doi:10.5061/dryad.d7wm37q54 
+- Focuses on watershed characteristics including temp, sediment, and cover
+- **License:** Licenses/restrictions placed on the data: This data will be available after a 2 year embargo from the date of publication.
 ---
 
 ## Analysis
