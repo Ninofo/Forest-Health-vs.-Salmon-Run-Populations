@@ -48,7 +48,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Nina Fossen
+- Nina Fossen https://github.com/Ninofo
 - Jacqueline Muse 
 
 ---
