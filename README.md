@@ -26,12 +26,18 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## Data
+## Salmon Data
+
+- **Source:**  Pacific Salmon Commission
+- **Description:** Brief overview of the dataset features, size, and format
+- **License:**  "Pacific Salmon Commission (PSC) www.psc.org (month and year when data was retrieved)".
+ If the document contains an acknowledgment section, then it must be noted that data was provided by the Pacific Salmon Commission, found at www.psc.org.
+
+## Forest Data
 
 - **Source:** Link to the data source(s) 
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
-
 ---
 
 ## Analysis
