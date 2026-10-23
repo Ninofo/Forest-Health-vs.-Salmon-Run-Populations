@@ -1,15 +1,16 @@
-# Salmon Run Populations in Predicting Forest Health
+# Global Warming on Salmon Run Populations
 
-> Examine Salmon run populations and determine if there is a correlation in Forest health. 
+> Determine if the number of salmon in yearly salmon runs are impacted by increasing water temperatures in freshwater spawning rivers. 
 
 ---
 
 ## Project Overview
 
+Focusing on the North Thompson watershed region along the Yukon River Basin in Canada. 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** Nature and Restoration 
+- **Objective:** Determine if there is a correlation between increased upriver freshwater temperatures and salmon run populations
+- **Domain:** Nature and Global warming
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -26,19 +27,18 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## Salmon Data
+## Salmon Population Data
 
-- **Source:**  Pacific Salmon Commission
+- **Source:**  Pacific Salmon Commission at www.psc.org
 - **Description:** Brief overview of the dataset features, size, and format
-- **License:**  "Pacific Salmon Commission (PSC) www.psc.org (month and year when data was retrieved)".
- If the document contains an acknowledgment section, then it must be noted that data was provided by the Pacific Salmon Commission, found at www.psc.org.
+- **License:**  Pacific Salmon Commission (PSC) www.psc.org (retrieved Oct 2026)
+  
 
-## Forest/Watershed Data
+## Freshwater Temperatures Data
 
-Forestry influences on salmonid habitat in the North Thompson River Watershed, British Columbia
-- datadryad.org/dataset/doi:10.5061/dryad.d7wm37q54 
-- Focuses on watershed characteristics including temp, sediment, and cover
-- **License:** Licenses/restrictions placed on the data: This data will be available after a 2 year embargo from the date of publication.
+- **Source:** Salmon Watersheds program, Pacific Salmon Foundation 
+- **Description:** includes water temperatures of multiple creeks within the North Thompson Watershed region along the Yukon River Basin in Canada. data is a .dbf file
+- **License:** "Pacific Salmon Foundation (retrieved Oct 2026)
 ---
 
 ## Analysis
